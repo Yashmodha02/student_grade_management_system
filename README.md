@@ -1,18 +1,26 @@
-## Getting Started
+Student Grade Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Overview
 
-## Folder Structure
+The Student Grade Management System is a Java application designed to manage student records, including adding, updating, deleting, and displaying student marks. It utilizes a MySQL database for data storage and Java Swing for a user-friendly graphical interface. This application is ideal for educational institutions to efficiently handle student grades and marks.
 
-The workspace contains two folders by default, where:
+Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Add Student: Allows users to input student details along with marks for various subjects.
+Update Student: Enables modification of existing student records.
+Delete Student: Provides functionality to remove a student's record from the database.
+Display Marksheet: Generates and displays a formatted marksheet for a specific student, including total marks and percentage.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Technologies Used
 
-## Dependency Management
+Java: The programming language used to develop the application.
+MySQL: The relational database management system for storing student records.
+JDBC: Java Database Connectivity for connecting and interacting with the MySQL database.
+Java Swing: A GUI toolkit for creating a user-friendly interface.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+![Screenshot 2024-10-15 204842](https://github.com/user-attachments/assets/5271c802-8044-4b5d-9b26-1c732c27f48d)
+![Screenshot 2024-10-15 205009](https://github.com/user-attachments/assets/6caeb399-da24-4d40-bb35-0a7e00959f7c)
