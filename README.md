@@ -7,16 +7,22 @@ The Student Grade Management System is a Java application designed to manage stu
 Features
 
 Add Student: Allows users to input student details along with marks for various subjects.
+
 Update Student: Enables modification of existing student records.
+
 Delete Student: Provides functionality to remove a student's record from the database.
+
 Display Marksheet: Generates and displays a formatted marksheet for a specific student, including total marks and percentage.
 
 
 Technologies Used
 
 Java: The programming language used to develop the application.
+
 MySQL: The relational database management system for storing student records.
+
 JDBC: Java Database Connectivity for connecting and interacting with the MySQL database.
+
 Java Swing: A GUI toolkit for creating a user-friendly interface.
 
 
